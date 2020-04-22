@@ -2,6 +2,10 @@
 
 There are two main folders in this directory: cctlib-master and cctlib-no_crt. cctlib-master is the default Zerospy tool directory and cctlib-no_crt is a flatten calling context version of Zerospy, which can save memory for those programs with very deep calling contexts. You should always use Zerospy in cctlib-master, except for failures reported for too deep calling contexts.
 
+## Execution Environment
+
+The execution environment is obtained by the script in SC Author-kit and the screen output is listed in execution-environment.txt.
+
 ## Build
 
 The build process of these two directory is same. For cctlib-master, the building script is listed below:
