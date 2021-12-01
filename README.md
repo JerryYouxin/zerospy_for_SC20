@@ -21,7 +21,7 @@ For cctlib-no_crt, the building script is listed below:
 
 ~~~~
 $ tar xvzf pin-3.7-97619-g0d0c92f4f-linux.tar.gz
-$ export PIN_ROOT=`pwd`/pin-3.7-97619-g0d0c92f4f-linux
+$ export PIN_ROOT=`pwd`/pin-3.7-97619-g0d0c92f4f-gcc-linux
 $ cd cctlib-no_crt
 $ ./build.sh
 ~~~~
