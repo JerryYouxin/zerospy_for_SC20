@@ -12,7 +12,7 @@ The build process of these two directory is same. For cctlib-master, the buildin
 
 ~~~~
 $ tar xvzf pin-2.14-71313-gcc4.4.7-linux.tar.gz
-$ export PIN_ROOT=`pwd`/pin-2.14-71313-gcc4.4.7-linux 
+$ export PIN_ROOT=`pwd`/pin-2.14-71313-gcc.4.4.7-linux
 $ cd cctlib-master
 $ ./build.sh
 ~~~~
